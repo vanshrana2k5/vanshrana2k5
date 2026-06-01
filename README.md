@@ -1,6 +1,6 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Vansh%20Rana&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=MERN%20Stack%20Engineer%20%E2%80%94%20Backend%20Architecture%20%7C%20AI%20Systems%20%7C%20Real-time%20Apps&descAlignY=60&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=VANSH%20RANA&font=Poppins&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=MERN%20Stack%20Engineer%20%E2%80%94%20Backend%20Architecture%20%7C%20AI%20Systems%20%7C%20Real-time%20Apps&descAlignY=60&descSize=17&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=MERN+Stack+Engineer;MongoDB+%7C+Express+%7C+React+%7C+Node.js;REST+APIs+%7C+WebSockets+%7C+Real-time+Systems;Open+to+Full-Stack+%26+Backend+Engineer+roles)](https://git.io/typing-svg)
 
@@ -127,16 +127,6 @@ Browser-based order management system for print businesses
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=vanshrana2k5&theme=github_dark&hide_border=true&show_icons=true&count_private=false" />
-&nbsp;
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshrana2k5&theme=github_dark&hide_border=true&layout=compact" />
-
-<br/>
-
-<img src="https://nirzak-streak-stats.vercel.app/?user=vanshrana2k5&theme=github-dark-blue&hide_border=true" />
-
-<br/>
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshrana2k5&theme=github-compact&hide_border=true&area=true" />
 
 </div>
@@ -147,7 +137,6 @@ Browser-based order management system for print businesses
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=vanshrana2k5&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=6&column=6)
 
 </div>
 
