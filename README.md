@@ -1,14 +1,13 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=VANSH%20RANA&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20MERN%20%7C%20AI%20Integrations%20%7C%20Python&descAlignY=60&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:1f6feb&height=220&section=header&text=Vansh%20Rana&fontSize=70&fontColor=ffffff&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20MERN%20%7C%20AI%20Integrations%20%7C%20Python&descAlignY=60&descSize=17&animation=fadeIn" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Full-Stack+Engineer+%7C+MERN+Stack;REST+APIs+%7C+JWT+Auth+%7C+CI%2FCD+Pipelines;AI+Integrations+%7C+Real-time+Systems;Open+to+Full-Stack+%26+Backend+Engineer+Roles)](https://git.io/typing-svg)
 
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vanshrana19)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vanshrana2k5@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&to=vanshrana2k5@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vanshrana2k5)
-[![Phone](https://img.shields.io/badge/+91_8427191694-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+918427191694)
+[![WhatsApp](https://img.shields.io/badge/+91_8427191694-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/918427191694)
 
 </div>
 
@@ -138,7 +137,6 @@ Web-based order system built for a real local business client
 ## 📊 GitHub Activity
 
 <div align="center">
-
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vanshrana2k5&theme=github-compact&hide_border=true&area=true" />
